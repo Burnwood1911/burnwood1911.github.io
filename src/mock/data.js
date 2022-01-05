@@ -42,7 +42,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'image1.png',
+    img: 'image1.jpg',
     title: 'CinemaApp',
     info: 'A Beautiful Cinema App For Booking Tickets with exemplary features and multiplatform on both IOS and ANDROID operating systems.',
     info2: '',
