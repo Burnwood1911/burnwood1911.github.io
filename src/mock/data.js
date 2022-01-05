@@ -31,7 +31,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'alex.jpg',
+  img: 'alex2.jpg',
   paragraphOne: 'Hi there, My name is Alexander Rossi . A software developer based in Tanzania. Passionate about technology and open source software that have positive impact to the society. Also, constantly developing new skills and learning from other developers in the software development sphere. I’m interest in Full stack development and Cyber security.',
   paragraphTwo: '',
   paragraphThree: '',
