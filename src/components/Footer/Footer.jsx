@@ -39,8 +39,8 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           &copy; 2017 - {new Date().getFullYear()} - made with <i className={`fa fa-heart fa-inverse text-warning`} /> {' '}
-          <a href="https://github.com/alphaolomi" target="_blank" rel="noopener noreferrer">
-            Alpha Olomi
+          <a href="https://github.com/burnwood1911" target="_blank" rel="noopener noreferrer">
+            Alexander Rossi
           </a>
         </p>
 
