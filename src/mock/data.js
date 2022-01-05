@@ -47,7 +47,7 @@ export const projectsData = [
     info: 'A Beautiful Cinema App For Booking Tickets with exemplary features and multiplatform on both IOS and ANDROID operating systems.',
     info2: '',
     url: '',
-    repo: 'p', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
    {
      id: nanoid(),
