@@ -42,31 +42,31 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'foodapp.png',
-    title: 'FoodApp',
-    info: 'Discover the best on-demand food delivery service apps that you must try today to get access to hundreds of amazing local restaurants foods and cuisines.',
-    info2: 'Find Food Options For Your Budget. Hungry?',
-    url: 'https://food-engine.herokuapp.com/',
-    repo: 'https://github.com/alphaolomi/food-app', // if no repo, the button will not show up
+    img: 'image1.png',
+    title: 'CinemaApp',
+    info: 'A Beautiful Cinema App For Booking Tickets with exemplary features and multiplatform on both IOS and ANDROID operating systems.',
+    info2: '',
+    url: '',
+    repo: 'p', // if no repo, the button will not show up
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'project.jpg',
-  //   title: '',
-  //   info: '',
-  //   info2: '',
-  //   url: '',
-  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  // },
-  // {
-  //   id: nanoid(),
-  //   img: 'project.jpg',
-  //   title: '',
-  //   info: '',
-  //   info2: '',
-  //   url: '',
-  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  // },
+   {
+     id: nanoid(),
+     img: 'image2.jpg',
+     title: 'BlogApp',
+     info: 'A Modern day blog app with cross cutting features for all journalism lovers.',
+     info2: '',
+     url: '',
+     repo: '', // if no repo, the button will not show up
+   },
+   {
+     id: nanoid(),
+     img: 'image3.jpg',
+     title: 'FoodApp',
+     info: 'An elegant food ordering app for small and starting food chains and restaurants.',
+     info2: '',
+     url: '',
+     repo: '', // if no repo, the button will not show up
+   },
 ];
 
 // CONTACT DATA
