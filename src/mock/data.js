@@ -2,40 +2,40 @@ import { nanoid } from 'nanoid';
 
 
 export const siteMetadata =  {
-  title: `Alpha Olomi // Software Developer`,
-  description: `Alpha Olomi is a Software Developer with over 3 years of experiences in a wide range of disciplines. Constantly in back-end development, learning and experiencing new things.`,
-  author: `@alphaolomi`,
-  keywords: ['Alpha Olomi', 'Alpha Elifuraha Olomi', 'personal', 'portfolio', 'experience', 'freelance', 'student', 'engineer', 'software', 'developer'],
-  contact: 'hello@alphaolomi.com',
+  title: `Alexander Rossi`,
+  description: `Alexander is a Software Developer with over 3 years of experiences in a wide range of disciplines. Constantly in back-end development, learning and experiencing new things.`,
+  author: `@alexander__rossi`,
+  keywords: ['Alexander Rossi', 'personal', 'portfolio', 'experience', 'freelance', 'student', 'engineer', 'software', 'developer'],
+  contact: 'burnwood1911@gmail.com',
   image: 'https://alphaolomi.com/img/thumbnail.png',
-  site_name: 'Alpha Olomi // Software Developer',
-  website:'https://alphaolomi.com',
+  site_name: 'Alexander Rossi // Software Developer',
+  website:'https://gallant-aryabhata-ec38e7.netlify.app/',
   lang:'en'
 };
 
 
 // HEAD DATA
 export const headData = {
-  title: 'Alpha Olomi // Software Developer', // e.g: 'Name | Developer'
+  title: 'Alexander Rossi', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Alpha Olomi is a software developer with over 4 years of experiences in a wide range of disciplines. Constantly in back-end development, learning and experiencing new things.', // e.g: Welcome to my website
+  description: 'Alexander Rossi is a software developer with over 3 years of experiences in a wide range of disciplines. Constantly in back-end development, learning and experiencing new things.', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: '',
-  name: 'Alpha Olomi',
+  name: 'Alexander Rossi',
   subtitle: 'I\'m the Missing Developer.',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'alpha.jpg',
-  paragraphOne: 'Hi there, My name is Alpha Olomi . A software developer based in Tanzania. Passionate about technology and open source software that have positive impact to the society. Also, constantly developing new skills and learning from other developers in the software development sphere. I’m interest in Full stack development and Cyber security.',
+  img: 'alex.jpg',
+  paragraphOne: 'Hi there, My name is Alexander Rossi . A software developer based in Tanzania. Passionate about technology and open source software that have positive impact to the society. Also, constantly developing new skills and learning from other developers in the software development sphere. I’m interest in Full stack development and Cyber security.',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://bit.ly/AlphaCV', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -73,7 +73,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: 'alphaolomi@gmail.com',
+  email: 'burnwood1911@gmail.com',
 };
 
 // FOOTER DATA
@@ -82,22 +82,22 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: 'https://twitter.com/alphaolomi',
+      url: 'https://twitter.com/burnw00d',
     },
     {
       id: nanoid(),
       name: 'codepen',
-      url: 'https://codepen.io/alphaolomi',
+      url: 'https://codepen.io/burnwood',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://linkedin.com/in/alphaolomi',
+      url: 'https://linkedin.com/in/alex-rossi-108a63224',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: 'https://github.com/alphaolomi',
+      url: 'https://github.com/burnwood1911',
     },
   ],
 };
