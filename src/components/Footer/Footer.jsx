@@ -36,11 +36,11 @@ const Footer = () => {
               );
             })}
         </div>
-        <hr />
+        
         <p className="footer__text">
           &copy; {new Date().getFullYear()} - made with <i className={`fa fa-heart fa-inverse text-warning`} /> {' '}
           <a href="https://github.com/burnwood1911" target="_blank" rel="noopener noreferrer">
-            Alex Rossi
+            Alexander Rossi
           </a>
         </p>
 
