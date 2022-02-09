@@ -7,7 +7,7 @@ export const siteMetadata =  {
   author: `@alexander__rossi`,
   keywords: ['Alexander Rossi', 'personal', 'portfolio', 'experience', 'freelance', 'student', 'engineer', 'software', 'developer'],
   contact: 'burnwood1911@gmail.com',
-  image: 'https://alphaolomi.com/img/thumbnail.png',
+  image: 'https://i.ibb.co/tZS3WDx/08-A8-F197-B818-43-A2-818-D-3-D3-A6-F2-CFFCB.jpg',
   site_name: 'Alexander Rossi // Software Developer',
   website:'https://www.alexrossi.xyz',
   lang:'en'
