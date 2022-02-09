@@ -9,7 +9,7 @@ export const siteMetadata =  {
   contact: 'burnwood1911@gmail.com',
   image: 'https://alphaolomi.com/img/thumbnail.png',
   site_name: 'Alexander Rossi // Software Developer',
-  website:'https://gallant-aryabhata-ec38e7.netlify.app/',
+  website:'https://www.alexrossi.xyz',
   lang:'en'
 };
 
