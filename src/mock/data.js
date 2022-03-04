@@ -67,6 +67,15 @@ export const projectsData = [
      url: '',
      repo: '', // if no repo, the button will not show up
    },
+  {
+     id: nanoid(),
+     img: 'image4.png',
+     title: 'React Spotify Web Clone',
+     info: 'A clone of the spotify web player website built using react Js.',
+     info2: '',
+     url: 'https://react-spotify-clone-a860b.web.app',
+     repo: 'https://github.com/Burnwood1911/spotify-clone-react', // if no repo, the button will not show up
+   },
 ];
 
 // CONTACT DATA
