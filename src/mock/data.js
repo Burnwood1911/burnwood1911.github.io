@@ -35,7 +35,7 @@ export const aboutData = {
   paragraphOne: 'Hi there, My name is Alexander Rossi . A software developer based in Tanzania. Passionate about technology and open source software that have positive impact to the society. Also, constantly developing new skills and learning from other developers in the software development sphere. I’m interest in Full stack development and Cyber security.',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://bit.ly/alexrossicv', // if no resume, the button will not show up
+  resume: 'https://api.whatsapp.com/send?phone=255626620198&text=Please%20Contact%20Me%20For%20Further%20Information%20', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
